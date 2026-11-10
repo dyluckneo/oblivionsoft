@@ -1,6 +1,6 @@
 # oblivionsoft
 
-The public pages for Oblivion Soft games (Adam Allen), served by GitHub Pages at
+The public pages for Oblivion Soft games (Oblivion Software LLC, Adam Allen), served by GitHub Pages at
 https://dyluckneo.github.io/oblivionsoft/
 
 | Page | URL | Used by |
